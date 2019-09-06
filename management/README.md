@@ -21,29 +21,16 @@ Vue + Axios + iView
 ![](https://github.com/ruoshy/Image/blob/master/cloud-book/1.png?raw=true)
 
 
-
-
-
 ![](https://github.com/ruoshy/Image/blob/master/cloud-book/3.png?raw=true)
-
-
-
 
 
 ![](https://github.com/ruoshy/Image/blob/master/cloud-book/4.png?raw=true)
 
 
-
 ![](https://github.com/ruoshy/Image/blob/master/cloud-book/2.png?raw=true)
 
 
-
-
-
 ![](https://github.com/ruoshy/Image/blob/master/cloud-book/5.png?raw=true)
-
-
-
 
 
 ![](https://github.com/ruoshy/Image/blob/master/cloud-book/6.png?raw=true)
