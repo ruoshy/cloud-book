@@ -2,9 +2,17 @@
 
 **微服务-云书**
 
-- 服务系统
+`前端`
 
+- 服务管理系统
+- 网站
 
+`后端`
+
+- 注册中心
+- 网关
+- 服务提供者
+- Api 接口
 
 
 
@@ -15,4 +23,3 @@
 后端：MyBatis + Spring Boot + Spring Security + Eureka + Zuul + Feign
 
 数据库：Mysql + Redis + Mongodb
-
