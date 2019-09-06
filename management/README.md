@@ -1,27 +1,49 @@
-# management
+ **微服务管理系统**
 
-> A Vue.js project
+- 内容管理  🌻
 
-## Build Setup
+- 服务管理  ❎ 
 
-``` bash
-# install dependencies
-npm install
+- 账户管理  ❎
 
-# serve with hot reload at localhost:8080
-npm run dev
 
-# build for production with minification
-npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
+**技术栈**
 
-# run e2e tests
-npm run e2e
+Vue + Axios + iView
 
-# run all tests
-npm test
-```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+### 一、内容管理  🌻
+
+
+
+![](https://github.com/ruoshy/Image/blob/master/cloud-book/1.png?raw=true)
+
+
+
+
+
+![](https://github.com/ruoshy/Image/blob/master/cloud-book/3.png?raw=true)
+
+
+
+
+
+![](https://github.com/ruoshy/Image/blob/master/cloud-book/4.png?raw=true)
+
+
+
+![](https://github.com/ruoshy/Image/blob/master/cloud-book/2.png?raw=true)
+
+
+
+
+
+![](https://github.com/ruoshy/Image/blob/master/cloud-book/5.png?raw=true)
+
+
+
+
+
+![](https://github.com/ruoshy/Image/blob/master/cloud-book/6.png?raw=true)
